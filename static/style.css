@@ -1,0 +1,35 @@
+p{
+    color:rgb(23, 20, 20);
+    font-size: 20px;
+    
+}
+.red{
+        color: red;
+}
+
+body{
+    background: purple;
+    color: antiquewhite;
+    font-family: "Roboto Mono", monospace;
+}
+h1{
+    color: aqua;
+    font-weight: 100;
+}
+.my-btn{
+    display: block;
+    color: aqua;
+    background: rgb(57, 13, 13);
+    width: 200px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid rebeccapurple;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+footer{
+    background-color: gray;
+    color: aliceblue;
+}
